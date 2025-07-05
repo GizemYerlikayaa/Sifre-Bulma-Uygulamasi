@@ -12,5 +12,5 @@ Sade, modern ve responsive arayüz
 Kullanılan Teknolojiler:
 HTML5 
 CSS3
-JavaScript 
+Vanilla JavaScript
 Web API – btoa() ve atob() fonksiyonları ile Base64 işlemleri
